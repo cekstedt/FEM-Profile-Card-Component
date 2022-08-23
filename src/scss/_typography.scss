@@ -1,6 +1,6 @@
 // Fonts
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
-$sans: "Outfit", sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+$sans: "Kumbh Sans", sans-serif;
 
 // Page-level styles
 body {
@@ -9,6 +9,5 @@ body {
 }
 
 // Typographic layout variables
-$fontWeight-thin: 300;
 $fontWeight-normal: 400;
-$fontWeight-bold: 600;
+$fontWeight-bold: 700;
