@@ -1,0 +1,16 @@
+.card {
+  width: 21.85rem;
+  height: 23.5rem;
+
+  & > .avatar {
+    margin-top: 5.5rem;
+  }
+
+  & > .infoblock {
+    margin: 1rem 0 1.5rem;
+  }
+
+  & hr {
+    margin: 1rem 0;
+  }
+}

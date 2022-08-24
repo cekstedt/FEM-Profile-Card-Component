@@ -1,0 +1,14 @@
+// Three Column Layout, responsive.
+
+.l-threeColumn {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0 1.65rem;
+  // max-width: 57.5rem;
+  // height: 31.25rem;
+  // margin: 2.75rem 1.5rem 0;
+
+  & > * {
+    // padding: 3rem;
+  }
+}

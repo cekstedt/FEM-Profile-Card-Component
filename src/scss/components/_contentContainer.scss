@@ -2,4 +2,8 @@
 
 .contentContainer {
   background-color: $main-background;
+  background-image: url("images/bg-pattern-top.svg"),
+    url("images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: top left, bottom right;
 }

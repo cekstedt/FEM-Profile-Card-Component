@@ -1,15 +1,18 @@
 // Globals
 @import "config";
 @import "reset";
-@import "utilities";
 @import "typography";
+@import "utilities";
 
 // Layouts
-@import "layouts/_l-fixedBottom.scss";
-@import "layouts/_l-fullPage.scss";
+@import "layouts/l-cardSpread";
+@import "layouts/l-fixedBottom";
+@import "layouts/l-fullPage";
+@import "layouts/l-threeColumn";
 
 //Components
 @import "components/avatar";
+@import "components/card";
 @import "components/contentContainer";
 @import "components/footer";
 @import "components/infoBlock";

@@ -2,14 +2,18 @@
   // Contains two elements: A header, and a subline.
 
   &-header {
-    display: block;
+    // display: block;
+    text-align: center;
+    color: $main-heading;
     font-weight: $fontWeight-bold;
-    font-size: 1.37rem;
+    font-size: 18px;
   }
 
   &-subline {
+    text-align: center;
     color: $main-paragraph;
     font-weight: $fontWeight-normal;
-    line-height: 1.4;
+    margin-top: 0.5rem;
+    // line-height: 1.4;
   }
 }
