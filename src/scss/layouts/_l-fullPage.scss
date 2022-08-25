@@ -1,13 +1,10 @@
 // Full page layout, for centering single components.
 
 .l-fullPage {
+  box-sizing: border-box;
   display: flex;
   min-height: 100vh;
   justify-content: center;
   align-items: center;
-
-  // & > * {
-  //   max-width: 18.75rem;
-  //   padding: 1.5625rem;
-  // }
+  padding: 1.5rem;
 }
