@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github](https://github.com/cekstedt/profile-card-component)
+- Solution URL: [Github](https://github.com/cekstedt/FEM-Profile-Card-Component)
 - Live Site URL: [Netlify](https://illustrious-gnome-c6eb70.netlify.app/)
 
 ## My process
