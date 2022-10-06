@@ -6,6 +6,6 @@
   "hosted": "https://illustrious-gnome-c6eb70.netlify.app/",
   "original": false,
   "personal": false,
-  "thumbnail": null,
-  "technologies": ["html", "css", "sass", "oocss"]
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "css", "sass", "oocss", "npm-scripts"]
 }
