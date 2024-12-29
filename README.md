@@ -10,6 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [How to install and run](#how-to-install-and-run)
 - [Author](#author)
 
 ## Overview
@@ -27,6 +28,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Solution URL: [Github](https://github.com/cekstedt/FEM-Profile-Card-Component)
 - Live Site URL: [Netlify](https://illustrious-gnome-c6eb70.netlify.app/)
+- Challenge URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
 ## My process
 
@@ -34,6 +36,29 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Semantic HTML5 markup
 - Object Oriented Sass (OOSCSS)
+
+### How to install and run
+
+Make sure you have node.js installed.
+```
+node -v
+```
+
+Clone into the repo.
+```
+git clone https://github.com/cekstedt/FEM-Profile-Card-Component.git
+```
+
+Navigate into the root project folder and install developer dependencies (task runners).
+```
+cd FEM-Profile-Card-Component/
+npm install
+```
+#### Commands
+
+- `npm run start` will start your development server at http://localhost:3000/.
+- `npm run build-dist` will create your production-ready `dist` directory.
+- `npm run clean` will remove any temporary files.
 
 ## Author
 
